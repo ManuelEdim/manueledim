@@ -1,4 +1,4 @@
-<h1 align="left">Emmanuel "Manuel" Okang Edim</h1>
+<h1 align="left">Emmanuel Okang Edim</h1>
 
 <p align="left">
 <b>Applied AI researcher & full-stack builder — I turn ML research into deployed products.</b><br/>
